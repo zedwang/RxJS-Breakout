@@ -1,5 +1,7 @@
 # RxJS-Breakout
 A game into to RxJS
+Like this:
+![image](demo.gif)
 ### Install
 ```
 npm install 
