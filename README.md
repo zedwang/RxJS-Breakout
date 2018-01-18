@@ -1,6 +1,6 @@
 # RxJS-Breakout
 A game into to RxJS
-Like this:
+Like this:   
 ![image](demo.gif)
 ### Install
 ```
